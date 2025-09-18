@@ -1,14 +1,3 @@
-The Essentials
-
-sí — yes
-no — no 
-¿entiende(s)? — do you understand?
-no entiendo — i don’t understand
-no (lo) sé — i don’t know
-no tengo ni idea — i have no idea
-no hablo español — i don’t speak spanish
-estoy perdido(a) — i’m lost
-
 Introduce Yourself
 
 me llamo — my name is
@@ -42,7 +31,9 @@ por favor — please
 ¡lo siento! — sorry! 
 gracias  — thank you
 salud — bless you
+
 Question Words
+
 ¿qué…? — what?
 ¿quién…? — who?
 ¿cuándo…? — when?
